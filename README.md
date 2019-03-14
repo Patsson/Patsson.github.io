@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Patrik Jonssons coding page
 
 You can use the [editor on GitHub](https://github.com/Patsson/Patsson.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
